@@ -1,15 +1,17 @@
 # How to use this 
 
 ## clone/download  the code into pc 
+
 install anaconda
+
 setup enviornment
-conda info --env
+* conda info --env
 
-conda create -n "enviornment name " python=3.6
+* conda create -n "enviornment name " python=3.6
 
-conda install -c anaconda spyder
+* conda install -c anaconda spyder
 
-conda install -c conda-forge opencv
+* conda install -c conda-forge opencv
 
 open up anaconda change enviornment
 
