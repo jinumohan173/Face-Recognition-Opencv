@@ -1,7 +1,6 @@
-how to use this 
+#How to use this 
 
-clone/download  the code into pc 
-
+##clone/download  the code into pc 
 install anaconda
 setup enviornment
 conda info --env
