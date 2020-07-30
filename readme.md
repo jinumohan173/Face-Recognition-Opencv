@@ -20,6 +20,9 @@ enter a id num
 
 run trainer.py
 
+![GitHub Logo](/images/logo.jpeg)
+Format: ![Alt Text](url)
+
 run detector.py
 
 please verify path according to your pc
