@@ -22,4 +22,5 @@ open up anaconda change enviornment
 * Enter a id num
 * run trainer.py
 * run detector.py
+
 Note : please verify path according to your pc
