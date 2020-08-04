@@ -18,8 +18,8 @@ setup enviornment
 after install 
 
 open up anaconda change enviornment
-*run the dataSetGenerator.py code 
-*Enter a id num
-*run trainer.py
-*run detector.py
+* run the dataSetGenerator.py code 
+* Enter a id num
+* run trainer.py
+* run detector.py
 Note : please verify path according to your pc
