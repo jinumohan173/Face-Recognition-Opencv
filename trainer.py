@@ -2,8 +2,6 @@ import cv2,os
 import numpy as np
 from PIL import Image 
 
-
-
 recognizer = cv2.face.LBPHFaceRecognizer_create()
 
 cascadePath = "Classifiers/face.xml"
